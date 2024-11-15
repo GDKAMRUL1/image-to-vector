@@ -1,0 +1,20 @@
+{
+  "name": "svg-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^4.21.1",
+    "inkscape-cli": "^1.0.4",
+    "multer": "^1.4.5-lts.1",
+    "potrace": "^2.1.8"
+  },
+  "description": ""
+}
